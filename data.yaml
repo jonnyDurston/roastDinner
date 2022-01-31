@@ -1,0 +1,93 @@
+---
+Roast Chicken:
+ ingredients:
+  "Chicken": "1"
+  "Large Onion": "1"
+  "Carrots": "2"
+  "Lemon": "1"
+  "Thyme": "15g"
+  "Butter": "25g"
+ recipe:
+  "Prep chicken": ["Heat oven to 175 degrees (fan assisted).\nChop onion and carrots and place\nin roasting tin. Season chicken\nwith salt, pepper, lemon and\nthyme, and coat with melted butter",15]
+  "Cook chicken": ["Put chicken in oven","TIME"]
+  "Rest chicken": ["Remove chicken from oven and leave\nto rest", 30]
+  "Carve\nchicken": ["Carve Chicken",10]
+ color:
+  "#f5953b"
+Carrots:
+ ingredients:
+  "Carrots": "3"
+ recipe:
+  "Prep carrots": ["Peel and chop carrots, and bring a\npan of salted water to the boil",15]
+  "Boil\ncarrots": ["Boil carrots",12]
+ color:
+  "#ff7519"
+Sprouts:
+ ingredients:
+  "Sprouts": "80g"
+ recipe:
+  "Prep sprouts": ["Peel and chop sprouts, and bring a\npan of salted water to the boil",15]
+  "Boil\nsprouts": ["Boil carrots",8]
+ color:
+  "#67c96d"
+Beans:
+ ingredients:
+  "Beans": "100g"
+ recipe:
+  "Prep beans": ["Chop beans, and bring a pan of salted\nwater to the boil",15]
+  "Boil\nbeans": ["Boil beans",10]
+ color:
+  "#548054"
+Roast Potatoes:
+ ingredients:
+  "Marris Piper Potatoes": "1.5kg"
+  "Olive Oil": "100ml"
+ recipe:
+  "Prep potatoes": ["Peel and chop potatoes and heat oven to\n175 degrees. Set a pan of water to the\nboil",20]
+  "Boil potatoes": ["Boil potatoes until almost cooked",15]
+  "Rest potatoes": ["Spread potatoes on a tray and allow\nthem to cool. Coat in oil and salt",20]
+  "Roast potatoes": ["Place potatoes in oven and roast",75]
+ color:
+  "#d4b272"
+Stuffing:
+ ingredients:
+  "Stuffing Mix": "85g"
+ recipe:
+  "Prep\nstuffing": ["Add 210ml boiling water to the mix,\nshape into balls and place on a tray",10]
+  "Cook stuffing": ["Cook balls in oven",30]
+ color:
+  "#ad945a"
+Yorkshire Puddings:
+ ingredients:
+  "Frozen Yorkshire Puddings": "4"
+ recipe:
+  "Cook\nyorkies": ["Place Yorkshire puddings in oven at\n180 degrees (fan) and cook",8]
+ color:
+  "#f0da92"
+Pigs in Blankets:
+ ingredients:
+  "Frozen Pigs in Blankets": "8"
+ recipe:
+  "Cook pigs in blankets": ["Heat oven to 180 degrees (fan), place\npigs in blankets on a tray and cook",35]
+ color:
+  "#f5b8d2"
+Gravy:
+ ingredients:
+  "Plain Flour": "15g"
+  "Chicken Stock": "250ml"
+ recipe:
+  "Prep\nstock": ["Add the chicken juices to a saucepan and\nmix in the flour and chicken stock",7]
+  "Reduce stock": ["Lightly simmer the stock until it becomes\na thick liquid",15] 
+ color:
+  "#8f653d"
+Roast Parsnips:
+ ingredients:
+  "Parsnips": "200g"
+  "Flour": "10g"
+  "Sunflower Oil": "1tbsp"
+  "Butter": "15g"
+ recipe:
+  "Prep\nparsnips": ["Top and tail parsnips, cut in half\nlengthways and boil for 5 mins",12]
+  "Roast parsnips": ["Place in a roasting tin with butter\nand sunflower oil and roast at 175 degrees\n",45]
+ color:
+  "#ffd56b"
